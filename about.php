@@ -2,9 +2,9 @@
 <fieldset class="layui-elem-field">
   <legend>关于我们</legend>
   <div class="layui-field-box">
-    <h1>作者:逗笔小新</h1>
+    <h1>作者:小新哟</h1>
 	<br>
-	<h1>QQ:1104361313</h1>
+	<h1>QQ:898836638</h1>
 	<br>
 	<h1>技术支持:</h1>
 	<br>
