@@ -26,15 +26,15 @@ function check_authorization(){
 			  
 			 layer.open({
 			  title: "提示"
-			  ,content:"域名未授权，请联系作者进行授权<br>QQ:1104361313"
+			  ,content:"域名未授权，请联系作者进行授权<br>QQ:898836638"
 				
 					,yes: function(index, layero){
-					window.location.href="https://wpa.qq.com/msgrd?v=3&uin=1104361313&site=qq&menu=yes";
+					window.location.href="https://wpa.qq.com/msgrd?v=3&uin=898836638&site=qq&menu=yes";
 						layer.close(index);
 						 }
 					
 					,cancel: function(index, layero){ 
-					window.location.href="https://wpa.qq.com/msgrd?v=3&uin=1104361313&site=qq&menu=yes";
+					window.location.href="https://wpa.qq.com/msgrd?v=3&uin=898836638&site=qq&menu=yes";
 						layer.close(index);
 					}  
 				
